@@ -1,2 +1,2 @@
 create text2 file create in vs code filegit status
-add
+git
